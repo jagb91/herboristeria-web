@@ -1,11 +1,13 @@
 body {
     font-family: Arial, sans-serif;
+    background-color: #fafafa;
 }
 
 header {
     padding: 20px;
     text-align: center;
     margin-bottom: 30px;
+    background-color: #f1f8e9;
 }
 
 h1 {
@@ -40,4 +42,14 @@ nav {
     display: flex;
     gap: 20px;
     justify-content: center;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
 }
